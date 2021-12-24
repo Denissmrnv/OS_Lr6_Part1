@@ -1,0 +1,11 @@
+D:\_Stidy_RSATU\2_Kurs\_OS\LAST\Task2\Task2\bin\Debug\Task2.exe.config
+D:\_Stidy_RSATU\2_Kurs\_OS\LAST\Task2\Task2\bin\Debug\Task2.exe
+D:\_Stidy_RSATU\2_Kurs\_OS\LAST\Task2\Task2\bin\Debug\Task2.pdb
+D:\_Stidy_RSATU\2_Kurs\_OS\LAST\Task2\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+D:\_Stidy_RSATU\2_Kurs\_OS\LAST\Task2\Task2\obj\Debug\Task2.csproj.SuggestedBindingRedirects.cache
+D:\_Stidy_RSATU\2_Kurs\_OS\LAST\Task2\Task2\obj\Debug\Task2.Task2.resources
+D:\_Stidy_RSATU\2_Kurs\_OS\LAST\Task2\Task2\obj\Debug\Task2.Properties.Resources.resources
+D:\_Stidy_RSATU\2_Kurs\_OS\LAST\Task2\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+D:\_Stidy_RSATU\2_Kurs\_OS\LAST\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+D:\_Stidy_RSATU\2_Kurs\_OS\LAST\Task2\Task2\obj\Debug\Task2.exe
+D:\_Stidy_RSATU\2_Kurs\_OS\LAST\Task2\Task2\obj\Debug\Task2.pdb
